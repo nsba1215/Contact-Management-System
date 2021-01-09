@@ -15,5 +15,4 @@ public class AcquaintanceFactory implements Factory {
         }
         return null;
     }
-
 }
